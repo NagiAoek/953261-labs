@@ -2,7 +2,7 @@
 // Run:  npm start
 import { menu } from "./data/menu.js";
 import { orders } from "./data/orders.js";
-import { menuLine, orderTotal, averageOrder } from "./src/cafe.js";
+import { menuLine, orderTotal, averageOrder, cheapDrinks } from "./src/cafe.js";
 
 console.log("=== Kad Café menu ===");
 menu.forEach((item) => console.log(menuLine(item)));

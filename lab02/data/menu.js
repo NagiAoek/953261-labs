@@ -10,3 +10,4 @@ export const menu = [
   { id: "S01", name: "Mango Sticky Rice",  category: "dessert", price: 80, available: true,  tags: ["sweet"] },
   { id: "S02", name: "Coconut Ice Cream",  category: "dessert", price: 40, available: true,  tags: ["sweet", "cold"] },
 ];
+ 
